@@ -1,0 +1,1 @@
+this code represents the 4 bar mechanism of the mechanical bull in one motion. acceleration vs theta 2 plotter velocity vs theta 2 plottr 4 bar coupler curve plotter
